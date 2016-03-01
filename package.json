@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "faye": "^1.1.2"
+    "connect": "^3.4.1",
+    "faye": "^1.1.2",
+    "serve-static": "^1.10.2"
   }
 }
